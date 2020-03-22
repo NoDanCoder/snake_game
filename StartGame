@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-bundle exec ruby main.rb
+bundle exec ruby src/app.rb
